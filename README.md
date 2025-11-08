@@ -1,2 +1,4 @@
 # Exercicios_JS_Avancados
-Exercícios JavaScript Avançados
+Nome: Júlio Paulo Altino Luwungu
+Número: 12
+Turma: II12B
